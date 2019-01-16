@@ -5,6 +5,31 @@
 ###########################################################
 
 
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Indice 
+
+    gdocs-rtd
+    tutorial
+    come-usarlo
+    lavoro-github
+    lavoro-rtd
+    user-guide
+    hypothesis-partecipazione
+    pubblicare-su-docs-italia
+    sintassi-rst
+    tabelle
+    licenza
+    opendatasicilia
+
+
+.. name:: argument
+    :option: value
+    :option: value
+
+    content
+
+
 |REPLACE1|
 
 
